@@ -2,6 +2,81 @@
 
 # Lean Canvas - Ecommerce - Fresco
 
+
+<table>
+  <tr>
+    <td rowspan="2">
+      <b>Problem</b>
+      <i>Top 3 Problems</i>
+      <p>1. Los clientes ahorran minutos en la cola esperando a que te sirvan productos frescos de buena calidad</p>
+      <p>2. Si los pedidos se realizan a través de la aplicación, el comerciante sabe automáticamente qué cantidad de inventario posee entre venta y almacen y por tanto puede ahorrar tiempo auomatizando pedidos a proveedores </p>
+      <p>3. Comprar productos frescos en una tienda pequeña suele estar asociado a productos de más calidad. Sin embargo, se invierte tiempo comparando precios y productos.</p>
+    </td>
+    <td>
+      <b>Solution</b>
+      <i>Top 3 features</i>
+      <p>1. Como usuario de la aplicación puedo realizar pedidos de forma online: pagando para llevar a casa o para recoger</p>
+      <p>2. Como comerciante usuario de esta aplicación, si realizo las ventas con ella, mediante por ejemplo una tablet, puedo visualizar mi inventario en una gráfica para ahorra tiempo automatizando pedidos.</p>
+      <p>3. Los clientes pueden conocer el catálogo distintas tiendas y productos de forma online: tanto servicio y horarios como saber productos, precios, procedencia y oferta</p>
+    </td>
+    <td rowspan="2" colspan="2">
+      <b>Unique Value Proposition</b>
+      <i>Single, clear, <br>
+      compelling message <br>
+      that states why you <br>
+      are different and <br>
+      worth paying <br>
+      attention</i>
+      <p> Electronic commerce for saving users que time and time comparing knowing different litle commerce and products, y a los comcercios automatizanod procesos y dando visibilidad</p>
+      <br><br><br><br><br>
+    </td>
+    <td>
+      <b>Unfair Advantage</b>
+      <i>Can't be easily <br>
+      copied or bought</i>
+     <p>Dominio frontend con comercios de un mercado y backend para ofrecer servicios de datos.</p>
+    </td>
+    <td rowspan="2">
+      <b>Customer Segments</b>
+      <i>Target customers</i>
+      <p>Pequeó comcercio y comprador habitual que no se pase a comprar a grandes supermercados</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Key Metrics</b>
+      <i>Key activities you measure</i>
+      <p>Tiempo de espera en cola</p>
+      <p>Tiempo de contactar a los distintos proveedores</p>
+      <p>Coste ahorrado por usar un repartidos común, y una página común</p>
+    </td>
+    <td>
+      <b>Channels</b>
+      <i>Path to customers</i>
+      <p>Relación directa con los comerciantes como asesoría y con descuentos hacia sus clientes</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <i>Cost Structure</b>
+      <p>Customer Acquisition Costs <br>
+      Distribution Costs <br>
+      Hosting <br>
+      People, etc.</i>
+      <p>SW, repartidor, asesoría <p>
+    </td>
+    <td colspan="3">
+      <b>Revenue Streams</b>
+      <i>Revenue Model <br>
+      Life Time Value <br>
+      Revenue <br>
+      Gross Margin</i>
+      <p> 10% sobre el incrementos en ventas<p>
+    </td>
+  </tr>
+</table>
+
+
 ## Problem
 > List your top 1-3 problems.
 
@@ -95,12 +170,12 @@ Lolamarket de productos locales con procedencia, tamaño de filetes en cm para c
 
 1. Tiempo que no esperas en la cola
 
-2. Número del repartidor.
+2. Ahorro con repartidor conjuntor.
 
 ## Unfair Advantage
 > Something that cannot easily be bought or copied.
 
-1. The relation with ourclients
+1. Sw, and cleint data
 
 <table>
   <tr>
@@ -111,69 +186,6 @@ Lolamarket de productos locales con procedencia, tamaño de filetes en cm para c
     <td>
       <b>Solution</b>
       <p>Top 3 features</p>
-    </td>
-    <td rowspan="2" colspan="2">
-      <b>Unique Value Proposition</b>
-      <p>Single, clear, <br>
-      compelling message <br>
-      that states why you <br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
-      <br><br><br><br><br>
-    </td>
-    <td>
-      <b>Unfair Advantage</b>
-      <p>Can't be easily <br>
-      copied or bought</p>
-    </td>
-    <td rowspan="2">
-      <b>Customer Segments</b>
-      <p>Target customers</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Key Metrics</b>
-      <p>Key activities you measure</p>
-    </td>
-    <td>
-      <b>Channels</b>
-      <p>Path to customers</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <b>Cost Structure</b>
-      <p>Customer Acquisition Costs <br>
-      Distribution Costs <br>
-      Hosting <br>
-      People, etc.</p>
-    </td>
-    <td colspan="3">
-      <b>Revenue Streams</b>
-      <p>Revenue Model <br>
-      Life Time Value <br>
-      Revenue <br>
-      Gross Margin</p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="2">
-      <b>Problem</b>
-      <i>Top 3 Problems</i>
-      <p>1. Los clientes ahorran minutos en la cola esperando a que te sirvan productos frescos de buena calidad</p>
-      <p>2. Si los pedidos se realizan a través de la aplicación, el comerciante sabe automáticamente qué cantidad de inventario posee entre venta y almacen y por tanto puede ahorrar tiempo auomatizando pedidos a proveedores </p>
-      <p>3. Los clientes pueden conocer el catálogo distintas tiendas y productos de forma online: tanto servicio y horarios como saber productos, precios y procedencia</p>
-    </td>
-    <td>
-      <b>Solution</b>
-      <i>Top 3 features</i>
-      <p>1. Como usuario de la aplicación puedo realizar pedidos de forma online: pagando para llevar a casa o para recoger</p>
-      <p>2. Como comerciante usuario de esta aplicación, si realizo las ventas con ella, mediante por ejemplo una tabletos clientes pueden conocer el catálogo de productos de forma online: para saber productos, precios y procedencia</p>
     </td>
     <td rowspan="2" colspan="2">
       <b>Unique Value Proposition</b>
