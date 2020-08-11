@@ -164,11 +164,16 @@ Lolamarket de productos locales con procedencia, tamaño de filetes en cm para c
   <tr>
     <td rowspan="2">
       <b>Problem</b>
-      <p>Top 3 Problems</p>
+      <i>Top 3 Problems</i>
+      <p>1. Los clientes ahorran minutos en la cola esperando a que te sirvan productos frescos de buena calidad</p>
+      <p>2. Si los pedidos se realizan a través de la aplicación, el comerciante sabe automáticamente qué cantidad de inventario posee entre venta y almacen y por tanto puede ahorrar tiempo auomatizando pedidos a proveedores </p>
+      <p>3. Los clientes pueden conocer el catálogo distintas tiendas y productos de forma online: tanto servicio y horarios como saber productos, precios y procedencia</p>
     </td>
     <td>
       <b>Solution</b>
-      <p>Top 3 features</p>
+      <i>Top 3 features</i>
+      <p>1. Como usuario de la aplicación puedo realizar pedidos de forma online: pagando para llevar a casa o para recoger</p>
+      <p>2. Como comerciante usuario de esta aplicación, si realizo las ventas con ella, mediante por ejemplo una tabletos clientes pueden conocer el catálogo de productos de forma online: para saber productos, precios y procedencia</p>
     </td>
     <td rowspan="2" colspan="2">
       <b>Unique Value Proposition</b>
