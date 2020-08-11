@@ -51,7 +51,11 @@ Un servicio para negocios de aliemntación para:
 ### High-level Concept
 > List your X for Y analogy e.g. Youtube = Flickr for videos
 
-Amazon, un servicio de catalogo de productos y venta  a domicilio, pero. . .
+Un Amazon, un servicio de catalogo de productos y venta a domicilio, pero como salesforce en cuanto a que está integrado con la gestión de inventarios y en cuanto a shopify en que la relación con el cliente no es de amazon.
+
+https://www.ecommerceceo.com/pros-and-cons-of-selling-on-amazon/
+
+
 
 ## Solution
 > Outline a possible solution for each problem.
