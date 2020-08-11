@@ -55,32 +55,49 @@ Un Amazon, un servicio de catalogo de productos y venta a domicilio, pero como s
 
 https://www.ecommerceceo.com/pros-and-cons-of-selling-on-amazon/
 
+Ulabox con procedencia de producto y reviews.
 
+Deliberry en cuanto a precio minimo de entrega y eleccion del supermercado, pero con reviews y una identificación de la pieza.
+
+Soysuper con productos frescos.
+
+Lolamarket de productos locales con procedencia, tamaño de filetes en cm para cortar.
 
 ## Solution
 > Outline a possible solution for each problem.
 
+1. Tienda online para vender o relaizar pedidos
+
+2. INtegración con la automatización de inventarios.
+
+3. Comparador de precios, orgniazador de dietas, paltos para preparar.
  
 ## Channels
 > List your path to customers (inbound or outbound).
 
-1.
+1. DIrect channel to businessess, compare sells
+
+2. To customer, visita mi página web, registrate con este cupón y recibe este descuento.
 
 ## Revenue Streams
 > List your sources of revenue.
 
-1.
+1. Over the yearly profit.
 
 ## Cost Structure
 > List your fixed and variable costs.
 
-1.
+1. SW, y el reparidor
 
 ## Key Metrics
 
 > List the key numbers that tell you how your business is doing.
 
-1.
+1. Tiempo que no esperas en la cola
+
+2. Número del repartidor.
 
 ## Unfair Advantage
 > Something that cannot easily be bought or copied.
+
+1. The relation with ourclients
