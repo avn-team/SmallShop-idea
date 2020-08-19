@@ -25,3 +25,10 @@ storefront -> travis/circleci -> docker
 Dev (from docker)
 Staging (from docker)
 Prod (from docker)
+
+Cloud run 
+
+1. Set a basic frontend and check it works
+2. Set travis to saleor, to generate docker
+3. Docker get this, and try it works
+4. Connect the db
