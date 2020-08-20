@@ -29,6 +29,7 @@ Prod (from docker)
 Cloud run 
 
 1. Set a basic frontend and check it works
-2. Set travis to saleor, to generate docker
-3. Docker get this, and try it works
+2. In local, create a google cloud sql table, redis and aws, and try it works
+3. Set cricle ci to saleor, to generate docker
+4. 
 4. Connect the db
