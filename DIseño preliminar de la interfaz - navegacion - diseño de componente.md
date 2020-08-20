@@ -33,3 +33,14 @@ Cloud run
 3. Set cricle ci to saleor, to generate docker
 4. 
 4. Connect the db
+
+Saleor
+
+Smallshop
+
+dev
+staging
+prod
+
+
+
